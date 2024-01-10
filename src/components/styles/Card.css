@@ -1,0 +1,19 @@
+.card {
+
+    border-top: 1px solid #000 !important;
+    border-right: 9px solid #000 !important;
+    border-bottom: 9px solid #000 !important;
+    border-left: 1px solid #000 !important;
+    border-radius: 1.5em !important;
+    max-width: 24em;
+}
+
+.userProfile {
+
+    width: 2em;
+}
+
+a:hover {
+
+    color: hsl(47, 88%, 63%);
+}
